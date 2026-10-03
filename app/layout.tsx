@@ -13,8 +13,15 @@ export const metadata: Metadata = {
     default: "Rankskey | Digital Growth Agency",
     template: "%s | Rankskey",
   },
+
   description:
     "Rankskey helps businesses grow through SEO, websites, Google Ads, Meta Ads and digital marketing strategies.",
+
+  icons: {
+    icon: "/Rankskey-logo-new.jpg",
+    shortcut: "/Rankskey-logo-new.jpg",
+    apple: "/Rankskey-logo-new.jpg",
+  },
 };
 
 export default function RootLayout({
